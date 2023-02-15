@@ -1,5 +1,5 @@
 # Conditions and Loops
-## Exercise 1 "Meet an Agent"
+## Exercise 1 "[Meet an Agent](https://github.com/pp8a/Java_Basics_ENG/tree/main/meet-an-agent)"
 ## Exercise 2 "Meet Strangers"
 ## Exercise 3 "Snail"
 ## Exercise 4 "Go Dutch"
