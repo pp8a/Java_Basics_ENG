@@ -3,7 +3,7 @@ Exercise 1 "[Meet an Agent](https://github.com/pp8a/Java_Basics_ENG/tree/main/me
 
 Exercise 2 "[Meet Strangers](https://github.com/pp8a/Java_Basics_ENG/tree/main/meet-a-stranger)"
 
-Exercise 3 "[Snail]"(https://github.com/pp8a/Java_Basics_ENG/tree/main/snail_)
+Exercise 3 "[Snail](https://github.com/pp8a/Java_Basics_ENG/tree/main/snail_)"
 
 Exercise 4 "Go Dutch"
 
