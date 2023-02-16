@@ -11,6 +11,6 @@ Exercise 5 "[Max Value in Sequence](https://github.com/pp8a/Java_Basics_ENG/tree
 
 Exercise 6 "[Average](https://github.com/pp8a/Java_Basics_ENG/tree/main/average)"
 
-Exercise 7 "Pizza Split"
+Exercise 7 "[Pizza Split](https://github.com/pp8a/Java_Basics_ENG/tree/main/pizza-split)"
 
 Exercise 8 "Quadratic Equation"
