@@ -5,7 +5,7 @@ Exercise 2 "[Meet Strangers](https://github.com/pp8a/Java_Basics_ENG/tree/main/m
 
 Exercise 3 "[Snail](https://github.com/pp8a/Java_Basics_ENG/tree/main/snail_)"
 
-Exercise 4 "Go Dutch"
+Exercise 4 "[Go Dutch](https://github.com/pp8a/Java_Basics_ENG/tree/main/go-dutch)"
 
 Exercise 5 "Max Value in Sequence"
 
