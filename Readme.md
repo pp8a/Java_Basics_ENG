@@ -13,4 +13,4 @@ Exercise 6 "[Average](https://github.com/pp8a/Java_Basics_ENG/tree/main/average)
 
 Exercise 7 "[Pizza Split](https://github.com/pp8a/Java_Basics_ENG/tree/main/pizza-split)"
 
-Exercise 8 "Quadratic Equation"
+Exercise 8 "[Quadratic Equation](https://github.com/pp8a/Java_Basics_ENG/tree/main/quadratic-equation)"
