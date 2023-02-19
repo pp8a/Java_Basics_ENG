@@ -1,4 +1,4 @@
-## Array
+## Arrays
 Exercise 1 "[Max Method]"
 
 Exercise 2 "Sum of Even Numbers"
