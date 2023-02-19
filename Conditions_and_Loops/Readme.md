@@ -9,7 +9,7 @@ Exercise 4 "[Go Dutch](https://github.com/pp8a/Java_Basics_ENG/tree/main/Conditi
 
 Exercise 5 "[Max Value in Sequence](https://github.com/pp8a/Java_Basics_ENG/tree/main/Conditions_and_Loops/max-in-seq)"
 
-Exercise 6 "[Average]https://github.com/pp8a/Java_Basics_ENG/tree/main/Conditions_and_Loops/average)"
+Exercise 6 "[Average](https://github.com/pp8a/Java_Basics_ENG/tree/main/Conditions_and_Loops/average)"
 
 Exercise 7 "[Pizza Split](https://github.com/pp8a/Java_Basics_ENG/tree/main/Conditions_and_Loops/pizza-split)"
 
