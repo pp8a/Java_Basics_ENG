@@ -9,7 +9,7 @@ Exercise 4 "[Local Maxima Remove](https://github.com/pp8a/Java_Basics_ENG/tree/m
 
 Exercise 5 "[Cycle Swap](https://github.com/pp8a/Java_Basics_ENG/tree/main/Arrays/cycle-swap)"
 
-Exercise 6 "Spiral"
+Exercise 6 "[Spiral](https://github.com/pp8a/Java_Basics_ENG/tree/main/Arrays/spiral)"
 
 Exercise 7 "Matrix Transposition"
 
