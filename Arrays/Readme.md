@@ -11,6 +11,6 @@ Exercise 5 "[Cycle Swap](https://github.com/pp8a/Java_Basics_ENG/tree/main/Array
 
 Exercise 6 "[Spiral](https://github.com/pp8a/Java_Basics_ENG/tree/main/Arrays/spiral)"
 
-Exercise 7 "Matrix Transposition"
+Exercise 7 "[Matrix Transposition](https://github.com/pp8a/Java_Basics_ENG/tree/main/Arrays/transpose-matrix)"
 
 Exercise 8 "Matrices Multiplication"
