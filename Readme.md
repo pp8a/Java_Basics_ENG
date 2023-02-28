@@ -1,8 +1,8 @@
 ## Java Basics Course
-Module "[Conditions and loops](https://github.com/pp8a/Java_Basics_ENG/tree/main/Conditions_and_Loops)".
+1. Module "[Conditions and loops](https://github.com/pp8a/Java_Basics_ENG/tree/main/Conditions_and_Loops)".
 
-The "[Arrays](https://github.com/pp8a/Java_Basics_ENG/tree/main/Arrays)" module.
+2. The "[Arrays](https://github.com/pp8a/Java_Basics_ENG/tree/main/Arrays)" module.
 
-[Classes](https://github.com/pp8a/Java_Basics_ENG/tree/main/Classes).
+3. [Classes](https://github.com/pp8a/Java_Basics_ENG/tree/main/Classes).
 
-Introduction to object-oriented programming.
+4. Introduction to object-oriented programming.
