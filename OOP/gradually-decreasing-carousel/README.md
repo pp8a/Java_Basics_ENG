@@ -6,11 +6,11 @@ Estimated workload of this exercise is _30 min_.
 
 Note, that if you have not done the "Decrementing Carousel" exercise,
 you have to implement `DecrementingCarousel` and `CarouselRun` classes.
-Details are specified in [DC.md](DC.md).
+Details are specified in [DC.md](https://github.com/pp8a/Java_Basics_ENG/tree/main/Classes/decrementing-carousel).
 
 ### Description
 
-In this exercise you need to extend [`DecrementingCarousel`](src/main/java/com/epam/rd/autotasks/DecrementingCarousel.java).
+In this exercise you need to extend [`DecrementingCarousel`](https://github.com/pp8a/Java_Basics_ENG/tree/main/Classes/decrementing-carousel).
 You need to implement [`GraduallyDecreasingCarousel`](src/main/java/com/epam/rd/autotasks/GraduallyDecreasingCarousel.java).
 This subclass must decrement elements by gradually increasing decrement.
 When you need to decrement an element for the first time, decrease it by `1`.
