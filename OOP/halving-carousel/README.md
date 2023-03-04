@@ -6,11 +6,11 @@ Estimated workload of this exercise is _30 min_.
 
 Note, that if you have not done the "Decrementing Carousel" exercise,
 you have to implement `DecrementingCarousel` and `CarouselRun` classes.
-Details are specified in [DC.md](DC.md).
+Details are specified in [DC.md](https://github.com/pp8a/Java_Basics_ENG/tree/main/Classes/decrementing-carousel).
 
 ### Description
 
-In this exercise you need to extend [`DecrementingCarousel`](src/main/java/com/epam/rd/autotasks/DecrementingCarousel.java).
+In this exercise you need to extend [`DecrementingCarousel`](https://github.com/pp8a/Java_Basics_ENG/tree/main/Classes/decrementing-carousel).
 You need to implement [`HalvingCarousel`](src/main/java/com/epam/rd/autotasks/HalvingCarousel.java).
 This subclass must halve elements instead of decrementing it by one.
 Note that you need to apply regular integer division, discarding the remainder.
