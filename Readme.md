@@ -8,3 +8,5 @@
 4. Introduction to [object-oriented programming](https://github.com/pp8a/Java_Basics_ENG/tree/main/OOP).
 
 5. [Abstract classes and interfaces](https://github.com/pp8a/Java_Basics_ENG/tree/main/Abstract_classes_and_interfaces).
+
+6. Nested Classes.
