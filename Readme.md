@@ -11,4 +11,6 @@
 
 6. [Nested Classes](https://github.com/pp8a/Java_Basics_ENG/tree/main/Nested_Classes).
 
-7. Working with [Strings](https://github.com/pp8a/Java_Basics_ENG/tree/main/Strings)
+7. Working with [Strings](https://github.com/pp8a/Java_Basics_ENG/tree/main/Strings).
+
+8. [Exceptions](https://github.com/pp8a/Java_Basics_ENG/tree/main/Exceptions).
