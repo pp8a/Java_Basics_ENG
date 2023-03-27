@@ -15,4 +15,4 @@
 
 8. [Exceptions](https://github.com/pp8a/Java_Basics_ENG/tree/main/Exceptions).
 
-9. Generics
+9. [Generics](https://github.com/pp8a/Java_Basics_ENG/tree/main/Generics).
