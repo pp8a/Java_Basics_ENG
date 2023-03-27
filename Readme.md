@@ -14,3 +14,5 @@
 7. Working with [Strings](https://github.com/pp8a/Java_Basics_ENG/tree/main/Strings).
 
 8. [Exceptions](https://github.com/pp8a/Java_Basics_ENG/tree/main/Exceptions).
+
+9. Generics
