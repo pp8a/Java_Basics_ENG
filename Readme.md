@@ -16,3 +16,5 @@
 8. [Exceptions](https://github.com/pp8a/Java_Basics_ENG/tree/main/Exceptions).
 
 9. [Generics](https://github.com/pp8a/Java_Basics_ENG/tree/main/Generics).
+
+10. [Enums](https://github.com/pp8a/Java_Basics_ENG/tree/main/Enums).
