@@ -18,3 +18,5 @@
 9. [Generics](https://github.com/pp8a/Java_Basics_ENG/tree/main/Generics).
 
 10. [Enums](https://github.com/pp8a/Java_Basics_ENG/tree/main/Enums).
+
+11. [Wrapper classes](https://github.com/pp8a/Java_Basics_ENG/tree/main/Wrapper_Classes).
