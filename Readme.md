@@ -21,4 +21,4 @@
 
 11. [Wrapper classes](https://github.com/pp8a/Java_Basics_ENG/tree/main/Wrapper_Classes).
 
-12.[Optionals](https://github.com/pp8a/Java_Basics_ENG/tree/main/Optional).
+12. [Optionals](https://github.com/pp8a/Java_Basics_ENG/tree/main/Optional).
