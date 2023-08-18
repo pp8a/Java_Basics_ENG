@@ -10,4 +10,4 @@
 9. [Generics](https://github.com/pp8a/Java_Basics_ENG/tree/main/Generics). <br/> ```The purpose of this exercise is to train you to work with generics.```
 10. [Enums](https://github.com/pp8a/Java_Basics_ENG/tree/main/Enums). <br/> ```The purpose of this exercise is to train you to work with enums.```
 11. [Wrapper classes](https://github.com/pp8a/Java_Basics_ENG/tree/main/Wrapper_Classes). <br/> ```The purpose of this exercise is to train you to work with wrapper classes and their static methods.```
-12. [Optionals](https://github.com/pp8a/Java_Basics_ENG/tree/main/Optional).
+12. [Optionals](https://github.com/pp8a/Java_Basics_ENG/tree/main/Optional). <br/> ```The purpose of this exercise is to train you to work with arrays and optional.```
