@@ -6,7 +6,7 @@
 5. [Abstract classes and interfaces](https://github.com/pp8a/Java_Basics_ENG/tree/main/Abstract_classes_and_interfaces). <br/> ```The purpose of these exercises is to teach you how to design and use simple interface implementations, work with classes, methods, and inheritance.```
 6. [Nested Classes](https://github.com/pp8a/Java_Basics_ENG/tree/main/Nested_Classes). <br/> ```The purpose of these exercises is to train using nested classes.```
 7. Working with [Strings](https://github.com/pp8a/Java_Basics_ENG/tree/main/Strings). <br/> ```The purpose of these exercises is to train you to work with string values and strings.```
-8. [Exceptions](https://github.com/pp8a/Java_Basics_ENG/tree/main/Exceptions).
+8. [Exceptions](https://github.com/pp8a/Java_Basics_ENG/tree/main/Exceptions). <br/> ```The purpose of these exercises is to train you to work with exceptions, to raise them in particular and handle them in particular.```
 9. [Generics](https://github.com/pp8a/Java_Basics_ENG/tree/main/Generics).
 10. [Enums](https://github.com/pp8a/Java_Basics_ENG/tree/main/Enums).
 11. [Wrapper classes](https://github.com/pp8a/Java_Basics_ENG/tree/main/Wrapper_Classes).
