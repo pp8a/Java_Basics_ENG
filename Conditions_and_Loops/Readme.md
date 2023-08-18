@@ -1,6 +1,5 @@
 ## Conditions and Loops
-Exercise 1 "[Meet an Agent](https://github.com/pp8a/Java_Basics_ENG/tree/main/Conditions_and_Loops/meet-an-agent)"
-
+Exercise 1 "[Meet an Agent](https://github.com/pp8a/Java_Basics_ENG/tree/main/Conditions_and_Loops/meet-an-agent)"<br/>```The purpose of this exercise is to familiarize you with simple conditional statements.```
 Exercise 2 "[Meet Strangers](https://github.com/pp8a/Java_Basics_ENG/tree/main/Conditions_and_Loops/meet-a-stranger)"
 
 Exercise 3 "[Snail](https://github.com/pp8a/Java_Basics_ENG/tree/main/Conditions_and_Loops/snail)"
